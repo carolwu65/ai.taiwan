@@ -1,7 +1,7 @@
 ---
 title: Taiwan eyes world-leading position in smart technology industry
 summary: The government intends to make Taiwan a world leader in smart technology, capturing opportunities in the industry that will propel the economy to new levels
-image: https://ws.ey.gov.tw/001/EyUpload/2/relpic/7851/223565/6766244e-19aa-4b2b-8ddb-70a1dce1ad12@710x470.jpg
+image: http://img.chinatimes.com/newsphoto/2017-07-12/656/20170712001877.jpg
 category: news
 permalink: news/taiwan-eyes-world-leading-position-in-smart-technology-industry/
 layout: page
