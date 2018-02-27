@@ -1,7 +1,7 @@
 ---
 title: Strategic Review Board meeting to map out Taiwan’s smart technology future
 summary: A Cabinet-level Strategic Review Board (SRB) meeting on smart system and chip development strategy will be held July 10-12 at the Taipei International Convention Center
-image: https://cdn.101mediaimage.com/img/2017/07/07/1707792767ipw61.jpg
+image: https://www.ctimes.com.tw/news/2017/07/12/1836506130S.JPG
 category: events
 permalink: events/strategic-review-board-meeting-to-map-out-taiwans-smart-technology-future3/
 layout: page
