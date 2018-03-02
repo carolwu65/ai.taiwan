@@ -1,7 +1,7 @@
 ---
 title: Taiwanese minister Audrey Tang gives Taiwan a voice at UN via live broadcast
 summary: Minister Without Portfolio Audrey Tang once again made a diplomatic breakthrough, appearing at the UN''s Human Settlements Programme''s World Urban Forum via live broadcast earlier this week.
-image: http://www.taipeitimes.com/images/2017/12/24/thumbs/p01-171224-aa5.jpg
+image: https://img.ltn.com.tw/Upload/liveNews/BigPic/600_phpJQKBlu.jpg
 category: events
 permalink: events/taiwanese-minister-audrey-tang-gives-taiwan-a-voice-at-un-via-live-broadcast/
 layout: page
