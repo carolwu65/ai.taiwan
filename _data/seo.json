@@ -8,6 +8,6 @@
     "primaryImageOfPage":{
         "@context": "http://schema.org",
         "@type": "ImageObject",
-        "contentUrl": "/images/ogimg.png"
+        "contentUrl": "/images/ogimg.jpg"
     }
 }
