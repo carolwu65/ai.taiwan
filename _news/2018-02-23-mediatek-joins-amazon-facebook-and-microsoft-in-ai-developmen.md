@@ -1,7 +1,7 @@
 ---
 title: MediaTek joins Amazon, Facebook and Microsoft in AI development
 summary: MediaTek Inc., Taiwan's largest integrated circuit designer, said Friday it has jointed an alliance formed by Amazon, Facebook and Microsoft focused on artificial intelligence development.
-image: https://i1.read01.com/SIG=h6b3ji/30444c5756593030.jpg
+image: /images/mediatek.jpg
 category: news
 permalink: news/mediatek-joins-amazon-facebook-and-microsoft-in-ai-development/
 layout: page
