@@ -1,5 +1,5 @@
 ---
-title: Technology helps advance Taiwan democracy said，minister without portfolio
+title: Technology helps advance Taiwan democracy, said minister without portfolio
 summary: The Vatican, March 12 (CNA) Minister without Portfolio Audrey Tang (唐鳳), a digital technology professional, touted Taiwan's democratic development in the current digital age, at a meeting in Vatican City last weekend.
 image: http://img5.cna.com.tw/Eng/WebEngPhotos//CEP/20180312/201803120009t0001.jpg
 category: news
