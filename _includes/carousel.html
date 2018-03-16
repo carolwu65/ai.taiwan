@@ -12,8 +12,7 @@
 
         {% for post in dataset %}
         <article>
-            <a href="{{post.permalink}}" class="image featured">
-                <img src="{{post.image}}" alt="" />
+            <a href="{{post.permalink}}" class="image featured" style="background:url({{post.image}})">
             </a>
             {% if include.sort %}
                 <p class="date">{{post.date | date: '%B %d, %Y' }}</p>
@@ -23,13 +22,23 @@
                     <a href="{{post.permalink}}">{{post.title}}</a>
                 </h3>
             </header>
-            <p>{{post.summary}}</p>
+            <p>{{post.summary | truncatewords:20}}</p>
         </article>
         {% endfor %}
     </div>
 </section>
 
 <style>
+
+    @media screen and (max-width: 425px){
+        .carousel article{
+            width: 90vw;
+        }
+        .carousel article p {
+            text-align: center !important;
+        }
+    }
+
     .carousel {
         padding: 2rem 0 !important;
     }
@@ -49,12 +58,14 @@
         padding: 4.5em 0 4.5em 0;
     }
 
-    .carousel article p {
-        text-align: justify
-    }
-
     .carousel h2 {
         margin-bottom: 50px;
+    }
+
+    .image.featured{
+        padding-top:60%;
+        background-size: cover !important;
+        background-position: center !important; 
     }
 
     .date {
