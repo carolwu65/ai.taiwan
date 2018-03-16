@@ -1,13 +1,23 @@
-<section id="actionplan" class="carousel">
+<section id="{{include.section}}" class="carousel">
     <h2>
-        <strong>ACTION PLAN</strong>
+        <strong>{{include.title}}</strong>
     </h2>
     <div class="reel">
-        {% assign actionplans = site.actionplan %} {% for post in actionplans %}
+
+        {% if include.sort=="reverse" %}
+            {% assign dataset = (include.dataset | sort: 'date') | reverse %}
+        {% else %}
+            {% assign dataset = (include.dataset | sort: 'date') %}
+        {% endif %}
+
+        {% for post in dataset %}
         <article>
             <a href="{{post.permalink}}" class="image featured">
                 <img src="{{post.image}}" alt="" />
             </a>
+            {% if include.sort %}
+                <p class="date">{{post.date | date: '%B %d, %Y' }}</p>
+            {% endif %}
             <header>
                 <h3>
                     <a href="{{post.permalink}}">{{post.title}}</a>
@@ -51,3 +61,11 @@
         text-align: right !important;
     }
 </style>
+
+{% if include.background-mode == "color" %}
+<style>
+    #{{include.section}} {
+        background: {{include.background}};
+    }
+</style>
+{% endif %}
