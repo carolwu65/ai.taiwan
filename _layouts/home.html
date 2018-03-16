@@ -6,19 +6,64 @@
 -->
 <html>
 	<head>
-		{% include head.html %}
+		{% include head/seo.html %}
+		{% include head/include.html %}
 	</head>
 
 	<body class="homepage">
 		
 		<div id="page-wrapper">
 
-			{% include header.html %} 
-			{% include vision.html %} 
-			{% include opportunities.html %} 
-			{% include actionplan.html %}
-			{% include news.html %}
-			{% include events.html %}
+			<div id="header">
+				{% include header/banner_big.html %}
+				{% include header/nav.html %}
+			</div>
+			
+			{% 
+				include text-content.html 
+				section="section-vision"
+				content="_data/vision.md"
+				background-mode="color"
+				background="white"
+			%}
+
+			{% 
+				include text-content.html 
+				section="section-opportunities"
+				content="_data/opportunities.md"
+				background-mode="gradient"
+				background="rgb(143, 156, 191), rgb(77, 102, 142)"
+			%}
+
+			{% 
+				include carousel.html
+				section="actionplan"
+				title="ACTION PLAN"
+				dataset=site.actionplan
+				background-mode="color"
+				background="#f0f4f4"
+			%}
+
+			{% 
+				include carousel.html
+				section="news"
+				title="NEWS"
+				dataset=site.news
+				background-mode="color"
+				background="white"
+				sort="reverse"
+			%}
+
+			{% 
+				include carousel.html
+				section="events"
+				title="EVENTS"
+				dataset=site.events
+				background-mode="color"
+				background="#f0f4f4"
+				sort="reverse"
+			%}
+
 			{% include footer.html %}
 
 		</div>
