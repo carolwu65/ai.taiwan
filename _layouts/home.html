@@ -44,7 +44,7 @@
 				background="#f0f4f4"
 			%}
 
-			{% 
+			<!-- {% 
 				include carousel.html
 				section="news"
 				title="NEWS"
@@ -52,8 +52,16 @@
 				background-mode="color"
 				background="white"
 				sort="reverse"
-			%}
+			%} -->
 
+			{% 
+				include first-post-and-list.html 
+				dataset=site.news
+				title="NEWS"
+				section="news"
+				listlink="/news"
+			%}
+			
 			{% 
 				include carousel.html
 				section="events"
@@ -64,7 +72,11 @@
 				sort="reverse"
 			%}
 
-			{% include footer.html %}
+			
+
+			{% 
+				include footer.html
+			%}
 
 		</div>
 
