@@ -8,6 +8,8 @@
             <div class="6u 12u(mobile)">
                 <a href="{{dataset.first.permalink}}">
                     <h3>{{dataset.first.title | truncatewords:20}}</h3>
+                    <p >{{dataset.first.date | date: '%B %d, %Y' }}</p>
+                    
                     <div class="image-10by6" style="background:url({{dataset.first.image}})"></div>
                     <p>{{dataset.first.summary | truncatewords:20}}</p>
                 </a>
