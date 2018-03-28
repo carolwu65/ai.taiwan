@@ -20,6 +20,16 @@
 			</div>
 			
 			{% 
+				include first-post-and-list.html 
+				dataset=site.news
+				title="NEWS"
+				section="news"
+				listlink="/news"
+			        background-mode="color"
+				background="#f0f4f4"
+			%}
+			
+			{% 
 				include text-content.html 
 				section="section-vision"
 				content="_data/vision.md"
