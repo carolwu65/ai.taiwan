@@ -11,4 +11,5 @@ Taiwan delegation participated in the APEC SOM (Senior Officials’ Meeting) Pol
 Dr. Tsai gave a talk in the section 4 of “Economy Level Strategies for the Digital Economy”, to share Taiwan’s experience on Artificial Intelligence Strategies toward the Digital Economy Era. He also introduced Taiwan’s DIGI+ initiatives and concerns on bridging digital divide. To enhance international cooperation, Dr. Tsai pointed out that Taiwan is very pleased to collaborate with the other economies in the areas of cyber security, and expressed the strong willingness to join the Cross Border Privacy Rules System
 
 Date: 2018-03-08
+
 Source: Board Of Science and Technology, Executive Yuan
