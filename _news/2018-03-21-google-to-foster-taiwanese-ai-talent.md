@@ -1,7 +1,7 @@
 ---
 title: Google to foster Taiwanese AI talent
 summary: Google launched a "Smart Taiwan" initiative Wednesday that will see the multinational tech giant working with Taiwanese government agencies
-image: http://img.ltn.com.tw/Upload/3c/page/2018/03/21/180321-33254-1.jpg
+image: https://images.weserv.nl/?url=img.ltn.com.tw/Upload/3c/page/2018/03/21/180321-33254-1.jpg
 category: news
 permalink: news/google-to-foster-taiwanese-ai-talent/
 layout: page
