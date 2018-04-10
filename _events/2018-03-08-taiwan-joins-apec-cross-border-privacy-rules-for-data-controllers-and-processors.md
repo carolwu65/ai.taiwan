@@ -1,7 +1,7 @@
 ---
 title: Taiwan joins APEC cross-border privacy rules for data controllers and processors
 summary: Taiwan delegation participated the APEC SOM of Dialogue on the Digital Economy on March 7, 2018 in Port Moresby, Papua New Guinea.
-image: https://github.com/PDIS/ai.taiwan/blob/master/images/20180307NEWS_PIC.jpg
+image: https://global-uploads.webflow.com/59c04070f4f5bc0001c723ee/5aa2020fcc4ace0001114e59_singapore-apec-data-protection-standards.jpg
 category: events
 permalink: events/taiwan-joins-apec-cross-border-privacy-rules-for-data-controllers-and-processors/
 layout: page
