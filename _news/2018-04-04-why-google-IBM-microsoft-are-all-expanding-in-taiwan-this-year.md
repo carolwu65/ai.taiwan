@@ -1,6 +1,6 @@
 ---
 title: Why Google, IBM & Microsoft Are All Expanding In Taiwan This Year
-summary: An artificial intelligence-based forecasting website for influenza was jointly launched by the Ministry of Health and Welfare and Taiwan technology company Acer Inc.
+summary: Google announced it will hire 300 people in Taiwan this year and train 5,000 students in artificial intelligence for machines. 
 image: https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F475601160%2F960x0.jpg%3Ffit%3Dscale
 category: news
 permalink: news/why-google-IBM-microsoft-are-all-expanding-in-taiwan-this-year/
