@@ -24,4 +24,4 @@ The tech giant is also partnering with MediaTek Inc., the largest integrated cir
 
 Date：2018-04-30
 <BR/>
-Source：Taiwannews
+Source：Taiwan News
