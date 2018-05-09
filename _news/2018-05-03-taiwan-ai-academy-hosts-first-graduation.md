@@ -24,6 +24,6 @@ In developing AI, the company adheres to three principles: its purpose should be
 
 The academy’s campus at Hsinchu Science Park is taking applications until May 22, while other campuses in Taichung, Tainan and Kaohsiung would open soon, academy director Tsai Ming-shun (蔡明順) said.
 
-Date：2018-05-03
+Date：2018-04-29
 <br/>
 Source：Taipei Times
