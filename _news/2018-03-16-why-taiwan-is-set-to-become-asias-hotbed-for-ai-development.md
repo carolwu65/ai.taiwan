@@ -3,7 +3,7 @@ title: Why Taiwan is set to become Asia's hotbed for AI development
 summary: Organisations such as Southern Taiwan Science Park (STSP) have launched initiatives to accelerate the development of AI and robotics
 image: https://e27.co/wp-content/uploads/2018/03/STSP_Starfab_Startups.jpg
 category: news
-permalink: news/why-taiwan-is-set-to-become-asias-hotbed-for-ai-development/
+permalink: /news/why-taiwan-is-set-to-become-asias-hotbed-for-ai-development/
 layout: page
 ---
 For many years, Taiwan’s tech market has been revered for its innovations in hardware and manufacturing (particularly semiconductors). Among its many successful hardware tech companies include household names such as Foxconn, Asus, TSMC, and D-Link.

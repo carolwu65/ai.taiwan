@@ -3,7 +3,7 @@ title: ‘Smart cities’ to spark Taiwan's future economic development
 summary: President Tsai Ing-wen (蔡英文) and local tech leaders hailed the "smart city" as a catalyst for the next stage in Taiwan's economic development at the opening ceremony of the 2018 Smart City Summit & Expo on Tuesday.
 image: https://images.weserv.nl/?url=img5.cna.com.tw/Eng/WebEngPhotos//CEP/20180327/201803270022t0001.jpg
 category: news
-permalink: news/smart-cities-to-spark-taiwans-future-economic-development/
+permalink: /news/smart-cities-to-spark-taiwans-future-economic-development/
 layout: page
 ---
 President Tsai Ing-wen (蔡英文) and local tech leaders hailed the "smart city" as a catalyst for the next stage in Taiwan's economic development at the opening ceremony of the 2018 Smart City Summit & Expo on Tuesday.

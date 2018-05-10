@@ -3,7 +3,7 @@ title: Taiwan AI Academy hosts first graduation
 summary: The nation’s first artificial intelligence (AI) academy yesterday had its first-semester graduation ceremony at Academia Sinica in Taipei, where MediaTek Inc and other businesses were eager to hunt talent.
 image: https://s4.itho.me/sites/default/files/styles/picture_size_large/public/field/image/screenshot_2018-04-28_20.24.54.png?itok=FixrpJsD
 category: news
-permalink: news/taiwan-ai-academy-hosts-first-graduation/
+permalink: /news/taiwan-ai-academy-hosts-first-graduation/
 layout: page
 ---
 The nation’s first artificial intelligence (AI) academy yesterday had its first-semester graduation ceremony at Academia Sinica in Taipei, where MediaTek Inc and other businesses were eager to hunt talent.

@@ -3,7 +3,7 @@ title: How AI will transform Taiwan’s economy
 summary: The government is working with Microsoft to develop a multi-million dollar AI hub to boost manufacturing.
 image: https://govinsider.asia/wp-content/uploads/2018/04/19440606206_16c0bf7281_k-e1523851801389-1024x586.jpg
 category: news
-permalink: news/how-ai-will-transform-taiwans-economy/
+permalink: /news/how-ai-will-transform-taiwans-economy/
 layout: page
 ---
 Artificial intelligence is shaking up traditional industries all over the world. To ride the wave, Taiwan’s Ministry of Science and Technology (MOST) is working closely with Microsoft to set up a NTD1 billion (US$33 million) artificial intelligence R&D hub in the country.

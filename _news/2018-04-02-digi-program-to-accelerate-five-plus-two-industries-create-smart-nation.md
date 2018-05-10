@@ -3,7 +3,7 @@ title: DIGI+ program to accelerate ‘five plus two’ industries, create smart 
 summary: Premier Lai Ching-te on Monday said the Digital Nation and Innovative Economic Development Program (DIGI+) is a vital part of the Executive Yuan’s smart nation policy that also provides fertile soil for the “five plus two” innovative industries, boosts Taiwan’s competitiveness, and enhances the quality of life.
 image: https://images.weserv.nl/?url=img.ltn.com.tw/Upload/liveNews/BigPic/600_phpsQs0iI.jpg
 category: news
-permalink: news/digi-program-to-accelerate-five-plus-two-industries-create-smart-nation/
+permalink: /news/digi-program-to-accelerate-five-plus-two-industries-create-smart-nation/
 layout: page
 ---
 Premier Lai Ching-te on Monday said the Digital Nation and Innovative Economic Development Program (DIGI+) is a vital part of the Executive Yuan’s smart nation policy that also provides fertile soil for the “five plus two” innovative industries, boosts Taiwan’s competitiveness, and enhances the quality of life.

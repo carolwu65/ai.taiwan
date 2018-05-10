@@ -3,7 +3,7 @@ title: Microsoft Taiwan and research institute host workshop on AI and cyber sec
 summary: Microsoft Taiwan along with the Institute for Information Industry (III) and several research institutes and private data security firms joined the “Microsoft-III AI Cyber security Brainstorming Workshop” in Taipei on March 27.
 image: https://tnimage.taiwannews.com.tw/photos/shares/5abb1da7dd8d3.jpg
 category: news
-permalink: news/microsoft-taiwan-and-research-institute-host-workshop-on-ai-and-cyber-security/
+permalink: /news/microsoft-taiwan-and-research-institute-host-workshop-on-ai-and-cyber-security/
 layout: page
 ---
 Microsoft Taiwan along with the Institute for Information Industry (III) and several research institutes and private data security firms joined the “Microsoft-III AI Cyber security Brainstorming Workshop” in Taipei on March 27.

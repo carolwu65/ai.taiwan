@@ -3,7 +3,7 @@ title: MOHW, Acer launch AI-powered flu forecasting website
 summary: An artificial intelligence-based forecasting website for influenza was jointly launched by the Ministry of Health and Welfare and Taiwan technology company Acer Inc.
 image: https://image.taiwantoday.tw/images/content/img20180412153801733.jpg
 category: news
-permalink: news/mohw-acer-launch-ai-powered-flu-forecasting-website/
+permalink: /news/mohw-acer-launch-ai-powered-flu-forecasting-website/
 layout: page
 ---
 An artificial intelligence-based forecasting website for influenza was jointly launched by the Ministry of Health and Welfare and Taiwan technology company Acer Inc. April 11 in Taipei City as part of government efforts to safeguard public well-being.

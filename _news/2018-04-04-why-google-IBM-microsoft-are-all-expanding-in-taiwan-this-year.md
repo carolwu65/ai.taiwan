@@ -3,7 +3,7 @@ title: Why Google, IBM & Microsoft Are All Expanding In Taiwan This Year
 summary: Google announced it will hire 300 people in Taiwan this year and train 5,000 students in artificial intelligence for machines. 
 image: https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F475601160%2F960x0.jpg%3Ffit%3Dscale
 category: news
-permalink: news/why-google-IBM-microsoft-are-all-expanding-in-taiwan-this-year/
+permalink: /news/why-google-IBM-microsoft-are-all-expanding-in-taiwan-this-year/
 layout: page
 ---
 Google announced it will hire 300 people in Taiwan this year and train 5,000 students in artificial intelligence for machines. That news, as detailed on Google’s blog last month, follows an acquisition by the Silicon Valley software giant in January of 2,000 employees who once worked under the Taiwanese tech firm HTC.
