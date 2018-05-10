@@ -1,7 +1,7 @@
 ---
 title: Microsoft launches artificial intelligence research hub in Taiwan
 summary: Microsoft is investing 1 billion New Taiwan dollars (USD 33 million) to create an artificial intelligence (AI) research and development (R&D) hub in Taiwan
-image: https://ncmedia.azureedge.net/ncmedia/2018/01/Jan-10-2018-Microsoft-tk02-0483.jpg
+image: https://news.microsoft.com/uploads/2018/01/Jan-10-2018-Microsoft-tk02-0483.jpg
 category: news
 permalink: /news/microsoft-launches-artificial-intelligence-research-hub-taiwan3/
 layout: page
