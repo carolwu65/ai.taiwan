@@ -1,7 +1,7 @@
 ---
 title: Microsoft developer conference opens; big crowds expected
 summary: The three-day 2018 DevDays Asia conference, organized by Microsoft Taiwan and described as the largest software developer event in Asia
-image: http://img5.cna.com.tw/Eng/WebEngPhotos//CEP/20180528/201805280019t0001.jpg
+image: /images/20180528news.jpg
 category: news
 permalink: /news/microsoft-developer-conference-opens-big-crowds-expected/
 layout: page
