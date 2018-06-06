@@ -1,6 +1,6 @@
 ---
 title: MOEA Prepares for the New AI Era by Combining the Efforts of Key Industries, Entrepreneurs, Academic Institutions, and Research Centers
-summary: MOEA Prepares for the New AI Era by Combining the Efforts of Key Industries, Entrepreneurs, Academic Institutions, and Research Centers
+summary: To prepare for the arrival of AI Era, the Ministry of Economic Affairs, Ministry of Education, and Ministry of Science and Technology joined Executive Yuan in its implementation of “the Taiwan AI Action Plan”.
 image: https://www.ey.gov.tw/File/3958B627E75A516D?S=L
 category: news
 permalink: /news/moea-prepares-for-the-new-ai-era-by-combining-the-efforts-of-key-industries/
