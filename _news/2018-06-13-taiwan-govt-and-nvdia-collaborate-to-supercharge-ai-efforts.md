@@ -16,15 +16,15 @@ Taiwan Premier Lai Ching-te expressed enthusiasm for the collaboration, which he
 
 The collaboration is focused on five key areas:
 
-<strong> 1. Supercomputing infrastructure. </strong>NVIDIA and Taiwan government agencies will co-invest to bring NVIDIA’s most advanced technology to Taiwan, including the new NVIDIA HGX-2, which fuses AI and high performance computing into a single platform.
+<strong> 1. <i>Supercomputing infrastructure.</i> </strong>NVIDIA and Taiwan government agencies will co-invest to bring NVIDIA’s most advanced technology to Taiwan, including the new NVIDIA HGX-2, which fuses AI and high performance computing into a single platform.
  
-<strong>  2. Research. </strong>NVIDIA Research, a global organization that includes some of the world’s best computer scientists, will collaborate with Taiwan researchers and startups to exchange best practices.
+<strong>  2. <i>Research.</i> </strong>NVIDIA Research, a global organization that includes some of the world’s best computer scientists, will collaborate with Taiwan researchers and startups to exchange best practices.
  
-<strong>  3. Training. </strong>NVIDIA will expand its Deep Learning Institute — which has provided developers worldwide with hands-on training for beginning and advanced AI techniques — to train thousands of Taiwanese developers on the latest AI capabilities.
+<strong>  3. <i>Training.</i> </strong>NVIDIA will expand its Deep Learning Institute — which has provided developers worldwide with hands-on training for beginning and advanced AI techniques — to train thousands of Taiwanese developers on the latest AI capabilities.
  
-<strong>  4. Startups. </strong>Taiwan agencies and NVIDIA will work together to help Taiwan AI startups through NVIDIA’s Inception startup accelerator program, which is helping more than 2,800 young companies globally.
+<strong>  4. <i>Startups.</i> </strong>Taiwan agencies and NVIDIA will work together to help Taiwan AI startups through NVIDIA’s Inception startup accelerator program, which is helping more than 2,800 young companies globally.
  
-<strong>  5. Innovation. </strong>Joint investment in developing AI solutions for key vertical markets for Taiwan, including manufacturing, healthcare, safe cities and transportation.
+<strong>  5. <i>Innovation.</i> </strong>Joint investment in developing AI solutions for key vertical markets for Taiwan, including manufacturing, healthcare, safe cities and transportation.
 
 ### Building on a grand plan ###
 
