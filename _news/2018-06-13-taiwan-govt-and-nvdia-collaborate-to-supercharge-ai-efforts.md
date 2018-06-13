@@ -1,7 +1,7 @@
 ---
 title: Taiwan govt and NVIDIA collaborate to supercharge AI efforts
 summary: At the start of Computex 2018, NVIDIA and Taiwan’s Ministry of Science and Technology (MOST) have announced an extensive collaboration that will advance Taiwan’s artificial intelligence capabilities.
-image: https://www.enterpriseinnovation.net/files/styles/article_page_image_205_245/public/ai_partnership_3.jpg?itok=xkawOqRY
+image: https://images.readitquik.com/images/uploads/content_images/adobe_nvidiaai_5abba2fbef3e9.jpg
 category: news
 permalink: /news/taiwan-govt-and-nvdia-collaborate-to-supercharge-ai-efforts/
 layout: page
