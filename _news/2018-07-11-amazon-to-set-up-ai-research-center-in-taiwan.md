@@ -1,9 +1,9 @@
 ---
-title: Amazon to set up AI research center in Taiwan： minister
+title: Amazon to set up AI research center in Taiwan
 summary: Chen Liang-gee (陳良基), Minister of Science and Technology said that Amazon plans to set up an artificial intelligence (AI) research center in Taiwan, off the back of similar actions by Microsoft and IBM.
 image: https://tnimage.taiwannews.com.tw/photos/shares/5b3d9a723cad3.jpg
 category: news
-permalink: /news/amazon-to-set-up-ai-research-center-in-taiwan-minister/
+permalink: /news/amazon-to-set-up-ai-research-center-in-taiwan/
 layout: page
 ---
 Chen Liang-gee (陳良基), Minister of Science and Technology said that Amazon plans to set up an artificial intelligence (AI) research center in Taiwan, off the back of similar actions by Microsoft and IBM.
