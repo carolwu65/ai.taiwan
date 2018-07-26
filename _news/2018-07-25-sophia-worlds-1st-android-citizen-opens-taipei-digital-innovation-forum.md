@@ -1,7 +1,7 @@
 ---
 title: Sophia, world’s 1st android citizen, opens Taipei Digital Innovation Forum
 summary: The 2018 Digital Innovation Forum (DIF Taipei) kicked off Thursday at the Taipei International Convention Center, with the world’s first android citizen, Sophia
-image: https://buzzorange.com/techorange/wp-content/uploads/sites/2/2018/07/%E6%A9%9F%E5%99%A8%E4%BA%BA%E5%85%AC%E6%B0%91-%E8%98%87%E8%8F%B2%E4%BA%9E-%E6%95%B8%E4%BD%8D%E5%89%B5%E6%96%B0%E8%AB%96%E5%A3%87-AI--768x577.jpg
+image: images/20180725news.jpg
 category: news
 permalink: /news/sophia-worlds-1st-android-citizen-opens-taipei-digital-innovation-forum/
 layout: page
