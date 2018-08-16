@@ -26,6 +26,14 @@ Minister without Portfolio Audrey Tang, also known as Taiwan’s Digital Ministe
 
 “I personally provide (open) office hours at the social innovation lab every Wednesday, from 10AM to 10PM. Anyone who is interested in social innovation is welcomed to have a discussion with me,” Tang said.
 
+Tang, the 37-year-old software- programmer-turned-public servant, said that she has been in the startup community since the age of 15.
+
+“Being an entrepreneur at heart, I’m glad to see the Global Entrepreneurship Congress Plus Taipei providing a great opportunity to exchange ideas and pitches from different teams, and to have stimulating conversations,” she said.
+
+“I look forward to seeing more entrepreneurs devote more time to the challenges and the problems at stake, namely how to turn your idea into a scalable business, and overcome those challenges every entrepreneur must face,” Tang said.
+
+The conference will host a series of events for global entrepreneurs from September 26 to 29 at the Taipei International Convention Center in Taipei.
+
 Date：2018-08-14
 <br/>
 Source：Entrepreneurs 27
