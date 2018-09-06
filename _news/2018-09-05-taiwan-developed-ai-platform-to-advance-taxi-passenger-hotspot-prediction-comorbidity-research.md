@@ -1,7 +1,7 @@
 ---
 title: Taiwan-developed AI platform to advance taxi passenger hotspot prediction, comorbidity research
 summary: AIdea unlocks potentials to developing AI solutions in areas spanning commerce, health, environment, and more
-image: https://tnimage.taiwannews.com.tw/photos/shares/5b7e1c32a4c24.jpg
+image: https://pgw.udn.com.tw/gw/photo.php?u=https://uc.udn.com.tw/photo/2018/08/22/realtime/5162361.jpg&x=0&y=0&sw=0&sh=0&sl=W&fw=1050&exp=3600&exp=3600
 permalink: /news/taiwan-developed-ai-platform-to-advance-taxi-passenger-hotspot-prediction-comorbidity-research/
 layout: page
 ---
