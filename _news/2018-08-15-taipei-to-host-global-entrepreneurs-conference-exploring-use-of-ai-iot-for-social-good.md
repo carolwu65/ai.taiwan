@@ -1,7 +1,7 @@
 ---
 title: Taipei to host global entrepreneurs’ conference exploring use of AI, IoT for social good
 summary: Taiwan next month will host the “2018 Global Entrepreneurship Congress Plus Taipei” 
-image: https://cdn.bnextmedia.com.tw/img/16x9.png
+image: https://obs.line-scdn.net/0hfU6itCZTOXoLEBSosuZGLTFGOhU4fCp5byZoeUh-Z051c3p_MiZ2TydFYRhxcn4kYnV2HSwZIksvd355ZH52/w644
 category: news
 permalink: /news/taipei-to-host-global-entrepreneurs-conference-exploring-use-of-ai-iot-for-social-good/
 layout: page
