@@ -1,7 +1,7 @@
 ---
 title: Premier praises progress toward Taiwan’s rise as AI nation
 summary: At Thursday’s weekly meeting of the Cabinet, Premier Lai Ching-te received a briefing by the Ministry of Science and Technology (MOST) on the execution and planning of the artificial intelligence (AI) semiconductor processes as well as the research and development of systems on a chip.
-image: https://img.appledaily.com.tw/images/ReNews/20171218/640_2379d9a9b121957f851bc494da77978f.jpg
+image: /images/20181003news.jpg
 permalink: /news/premier-praises-progress-toward-taiwans-rise-as-ai-nation/
 layout: page
 ---
