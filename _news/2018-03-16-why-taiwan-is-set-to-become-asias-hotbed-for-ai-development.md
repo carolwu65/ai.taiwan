@@ -1,7 +1,7 @@
 ---
 title: Why Taiwan is set to become Asia's hotbed for AI development
 summary: Organisations such as Southern Taiwan Science Park (STSP) have launched initiatives to accelerate the development of AI and robotics
-image: https://e27.co/wp-content/uploads/2018/03/STSP_Starfab_Startups.jpg
+image: /images/20180316news.jpg
 category: news
 permalink: /news/why-taiwan-is-set-to-become-asias-hotbed-for-ai-development/
 layout: page
