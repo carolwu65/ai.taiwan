@@ -1,7 +1,7 @@
 ---
 title: Taiwan startup Youuxi launches AI-based copywriting platform
 summary: Taiwan startup Youuxi, a digital marketing cloud service provider, has launched an AI-based copywriting platform designed to help businesses or ad agents save costs on seeking marketing channels
-image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIQc3tbShTbH7DoCac3wx3B1UKQ_i3GsrvFXBttHn_VLH1ENLh
+image: https://betanews.com/wp-content/uploads/2017/01/AI-Artificial-Intelligence-600x425.jpg
 permalink: /news/taiwan-startup-youuxi-launches-ai-based-copywriting-platform/
 layout: page
 ---
