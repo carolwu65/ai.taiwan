@@ -1,6 +1,6 @@
 ---
 title: Changing the Landscape of Smart City with AI Tech：2019 Smart City Summit & Expo (SCSE) to be Held in March 2019
-summary: T2019 Smart City Summit & Expo (SCSE), Asia's largest annual smart city tradeshow, will be held at Taipei Nangang Exhibition Center in Taipei, Taiwan, March 26 to 29. Jointly organized by Taipei City Government
+summary: 2019 Smart City Summit & Expo (SCSE), Asia's largest annual smart city tradeshow, will be held at Taipei Nangang Exhibition Center in Taipei, Taiwan, March 26 to 29. Jointly organized by Taipei City Government
 image: https://feedimo.com/images/files/20184100204239924600.jpg
 permalink: /news/changing-the-landscape-of-smart-city-with-ai-tech-2019-smart-city-summit--expo-scse-to-be-held-in-march-2019/
 layout: page
