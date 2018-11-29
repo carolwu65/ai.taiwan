@@ -1,7 +1,7 @@
 ---
 title: Cabinet plans to develop the nation’s AI industry
 summary: The Executive Yuan is to allocate an annual budget of between NT$9 billion and NT$10 billion (US$304.4 million and US$338.3 million) to develop the nation’s artificial intelligence (AI) industry, Premier William Lai (賴清德) said yesterday.
-image: https://images.rti.org.tw/upload/material/20180118000093M.jpg
+image: /images/20180119news.jpg
 category: news
 permalink: /news/cabinet-plans-to-develop-the-nations-ai-industry/
 layout: page
