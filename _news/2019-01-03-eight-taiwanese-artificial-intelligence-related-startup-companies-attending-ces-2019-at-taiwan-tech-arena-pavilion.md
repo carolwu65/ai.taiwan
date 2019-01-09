@@ -1,7 +1,7 @@
 ---
 title: Eight Taiwanese Artificial Intelligence Related Startup Companies Attending CES 2019 at Taiwan Tech Arena Pavilion
 summary: To facilitate Taiwan’s high-tech startups to join the global market, Dr. Yu-Chin Hsu, Deputy Minister of the Ministry of Science and Technology, will once again lead a delegation of 44 startup companies to attend CES 2019 in Las Vegas, the U.S. in January.
-image: /images/20190103news.jpg
+image: /images/20190103news.JPG
 permalink: /news/eight-taiwanese-artificial-intelligence-related-startup-companies-attending-ces-2019-at-taiwan-tech-arena-pavilion/
 layout: page
 ---
