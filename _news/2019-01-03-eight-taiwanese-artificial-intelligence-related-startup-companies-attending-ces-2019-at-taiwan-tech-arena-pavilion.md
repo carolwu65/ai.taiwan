@@ -33,7 +33,7 @@ With close support from Qualcomm Technologies International Ltd., Mavin has laun
 ### 8.Medjade
 By combining online brain EEG analyzing technique and pattern recognition technology to analyze patients’ brain waves, Medjade develops a neurotic disorder efficacy prediction system “MagXCure.” This system can help doctors to diagnose the mental health disorder symptoms more efficiently and find out the most suitable treatment for personal health.
 
-TTA x CES- Small Country, Big Strategy
+### TTA x CES- Small Country, Big Strategy
 It will be the second time for the Ministry leading delegations to set up a national pavilion during CES. Taiwan Tech Arena Pavilion aims to attract technology industries, startups, accelerators, VCs from global ecosystem. As a small country possesses a big strategy, Taiwan’s goal is to concentrate all the resources through “group fighting” and “partners seeking” to brand Taiwan’s high tech startups ecosystem.
 
 Launched in June, 2018, Taiwan Tech Arena aims to connect the global tech startup ecosystem and foster high-tech entrepreneurship in Taiwan. To date, plenty of public and private international partners are located in TTA, including French Tech Taiwan, SparkLabs Taipei, BE Accelerator, SOSV-MOX and IAPS; Canadian Technology Accelerator is expected to join in 2019. Over one hundred startups has joined TTA’s network this year.
