@@ -1,7 +1,7 @@
 ---
 title: World's top AI startups gear up for Taiwan's Smart City Summit ＆ Expo
 summary: The event is set to bring together some 36 artificial intelligence developers from around the world to showcase their latest technologies
-image: https://watermark.lovepik.com/photo/40068/7090.jpg_wh1200.jpg
+image: https://tnimage.taiwannews.com.tw/photos/shares/5c91ea785c3ce.jpg
 permalink: /news/worlds-top-ai-startups-gear-up-for-taiwans-smart-city-summit-expo/
 layout: page
 ---
