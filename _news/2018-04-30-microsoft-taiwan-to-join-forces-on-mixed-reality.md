@@ -1,7 +1,7 @@
 ---
 title: Microsoft, Taiwan to join forces on mixed reality
 summary: American tech giant Microsoft Corp. has agreed to partner with Taiwan to develop hardware standards and sample applications for mixed reality (MR) technology, Minister without Portfolio Audrey Tang (唐鳳) said Saturday.
-image: http://bldaily.com/wp-content/uploads/2018/04/23215611.jpg
+image: https://bldaily.com/wp-content/uploads/2018/04/23215611.jpg
 category: news
 permalink: /news/microsoft-taiwan-to-join-forces-on-mixed-reality/
 layout: page
