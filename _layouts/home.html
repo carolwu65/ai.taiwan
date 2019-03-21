@@ -20,6 +20,14 @@
 			</div>
 			
 			{% 
+				include first-post-and-list.html 
+				dataset=site.news
+				title="NEWS"
+				section="news"
+				listlink="/news/"
+			%}
+			
+			{% 
 				include text-content.html 
 				section="section-vision"
 				content="_data/vision.md"
@@ -52,7 +60,7 @@
 				background-mode="color"
 				background="white"
 				sort="reverse"
-			%} -->
+			%} 
 
 			{% 
 				include first-post-and-list.html 
@@ -62,7 +70,7 @@
 				listlink="/news/"
 			%}
 			
-			<!-- {% 
+			 {% 
 				include carousel.html
 				section="events"
 				title="EVENTS"
