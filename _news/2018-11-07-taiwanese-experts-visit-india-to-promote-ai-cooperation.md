@@ -1,7 +1,7 @@
 ---
 title: Taiwanese experts visit India to promote AI cooperation
 summary: Taiwan and India will move to deepen their cooperation in the research of technologies related to artificial intelligence (AI), including the Internet of Things (IoT), Taiwan's representative office in India said Monday.
-image: http://img5.cna.com.tw/Eng/WebEngPhotos//CEP/20181105/201811050025t0001.jpg
+image: https://img5.cna.com.tw/Eng/WebEngPhotos//CEP/20181105/201811050025t0001.jpg
 permalink: /news/taiwanese-experts-visit-india-to-promote-ai-cooperation/
 layout: page
 ---
