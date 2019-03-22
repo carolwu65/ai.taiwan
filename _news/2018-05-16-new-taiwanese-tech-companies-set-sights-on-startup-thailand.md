@@ -1,7 +1,7 @@
 ---
 title: New Taiwanese tech companies set sights on Startup Thailand
 summary: Fifteen startups in Taiwan will participate in Startup Thailand 2018
-image: http://img5.cna.com.tw/Eng/WebEngPhotos//CEP/20180514/201805140023t0001.jpg
+image: https://img5.cna.com.tw/Eng/WebEngPhotos//CEP/20180514/201805140023t0001.jpg
 category: news
 permalink: /news/new-taiwanese-tech-companies-set-sights-on-startup-thailand/
 layout: page
