@@ -1,7 +1,7 @@
 ---
 title: Taiwan is poised to power the AI economy in the region
 summary: Although AI has been around since 1965, public interest has only recently started taking off with pivotal breakthroughs in deep learning and neural networks
-image: http://techbayarea.org/wp-content/uploads/2018/03/ai-event.jpg
+image: https://techbayarea.org/wp-content/uploads/2018/03/ai-event.jpg
 category: news
 permalink: /news/taiwan-is-poised-to-power-the-ai-economy-in-the-region/
 layout: page
