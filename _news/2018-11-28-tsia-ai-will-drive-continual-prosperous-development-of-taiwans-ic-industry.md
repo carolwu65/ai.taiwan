@@ -1,7 +1,7 @@
 ---
 title: TSIA：AI Will Drive Continual Prosperous Development of Taiwan’s IC Industry
 summary: Artificial Intelligence (AI) and a variety of digital applications will drive the continual prosperous development of Taiwan’s semiconductor industry.
-image: http://www.ctimes.com.tw/news/2018/11/28/1637405550.jpg
+image: https://www.ctimes.com.tw/news/2018/11/28/1637405550.jpg
 permalink: /news/tsia-ai-will-drive-continual-prosperous-development-of-taiwans-ic-industry/
 layout: page
 ---
