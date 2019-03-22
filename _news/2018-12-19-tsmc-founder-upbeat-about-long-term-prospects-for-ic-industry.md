@@ -1,7 +1,7 @@
 ---
 title: TSMC founder upbeat about long-term prospects for IC industry
 summary: Chang said there are emerging technologies such as artificial intelligence (AI) and 5G, and these tech innovations cannot be isolated from the computing IC serves as a base for.
-image: http://img5.cna.com.tw/Eng/WebEngPhotos//CEP/20181219/201812190023t0001.jpg
+image: https://img5.cna.com.tw/Eng/WebEngPhotos//CEP/20181219/201812190023t0001.jpg
 permalink: /news/tsmc-founder-upbeat-about-long-term-prospects-for-ic-industry/
 layout: page
 ---
