@@ -6,7 +6,7 @@ category: actionplan
 permalink: actionplan/ai-for-industrial-innovation/
 layout: page
 ---
-[“Challenges from the Industry and Solutions from Talents” Cultivate Talents for Applications in New AI Era](https://ai.taiwan.gov.tw/news/challenges-from-the-industry-and-solutions-from-talents-cultivate-talents-for-applications-in-new-ai-era/)
+at [news](https://ai.taiwan.gov.tw/news/challenges-from-the-industry-and-solutions-from-talents-cultivate-talents-for-applications-in-new-ai-era/)
 
 # Demand-driven talent cultivation and matching for 5+2 industrial innovation.
 <br/>
