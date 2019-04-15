@@ -27,6 +27,7 @@ In addition to Google, we also collaborated with Microsoft to cultivate AI seed 
 Conclusion:
 The “Challenges from the Industry and Solutions from Talents” model in 2018 focused on “learning from doing” and revolutionized the talent cultivation model in traditional industries to closely connect companies’ actual difficulties and AI talents. The system differs from other AI technology contests by focusing on the output of AI solutions for the overall industry and the AI requirements of industries. In addition to training talented solution providers in establishing remarkable AI models, the contest also allowed them to learn a wide range of skills such as system integration, business negotiations, project management, and knowledge of the industry and cultivate the solution teams’ integration capabilities for providing proof of concept. It integrated knowledge of the industry and AI technologies and facilitated mutual learning to establish new models for “actual operations”, “interdisciplinary applications”, and “industrial applications”.
 ![](/images/20190412-1news.jpg)
+<br/>
 ![](/images/20190412-2news.jpg)
 <br/>
 Date：2019-04-12
