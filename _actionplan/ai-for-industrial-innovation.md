@@ -1,12 +1,12 @@
 ---
 title: AI for Industrial Innovation
-summary: Demand-driven talent cultivation and matching for 5+2 industrial innovation.
+summary: “Challenges from the Industry and Solutions from Talents” Cultivate Talents for Applications in New AI Era at：[news](https://ai.taiwan.gov.tw/news/challenges-from-the-industry-and-solutions-from-talents-cultivate-talents-for-applications-in-new-ai-era/)
 image: /images/samuel-zeller-82156.jpg
 category: actionplan
 permalink: actionplan/ai-for-industrial-innovation/
 layout: page
 ---
-
+Demand-driven talent cultivation and matching for 5+2 industrial innovation.
 # Connect industrial innovation with AI Talents.
 
 > Match AI talents to pressing topics identified by 5+2 industries, in order to develop 100+ AI solutions (est. 20 topics per industry)
