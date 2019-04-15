@@ -1,7 +1,7 @@
 ---
 title: AI for Industrial Innovation
 summary: “Challenges from the Industry and Solutions from Talents” Cultivate Talents for Applications in New AI Era
-image: /images/20190412.jpg
+image: /images/samuel-zeller-82156.jpg
 category: actionplan
 permalink: actionplan/ai-for-industrial-innovation/
 layout: page
