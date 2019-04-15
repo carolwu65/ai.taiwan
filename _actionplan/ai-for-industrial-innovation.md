@@ -12,8 +12,6 @@ at [news](https://ai.taiwan.gov.tw/news/challenges-from-the-industry-and-solutio
 <br>
 # Demand-driven talent cultivation and matching for 5+2 industrial innovation.
 <br/>
-![](/images/samuel-zeller-82156.jpg)
-<br/>
 # Connect industrial innovation with AI Talents.
 
 > Match AI talents to pressing topics identified by 5+2 industries, in order to develop 100+ AI solutions (est. 20 topics per industry)
