@@ -1,6 +1,6 @@
 ---
 title: AI for Industrial Innovation
-summary: “Challenges from the Industry and Solutions from Talents” Cultivate Talents for Applications in New AI Era at：[news](https://ai.taiwan.gov.tw/news/challenges-from-the-industry-and-solutions-from-talents-cultivate-talents-for-applications-in-new-ai-era/)
+summary: [“Challenges from the Industry and Solutions from Talents” Cultivate Talents for Applications in New AI Era](https://ai.taiwan.gov.tw/news/challenges-from-the-industry-and-solutions-from-talents-cultivate-talents-for-applications-in-new-ai-era/)
 image: /images/samuel-zeller-82156.jpg
 category: actionplan
 permalink: actionplan/ai-for-industrial-innovation/
