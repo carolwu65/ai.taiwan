@@ -1,7 +1,7 @@
 ---
 title: What is the state of Taiwan's AI ecosystem？
 summary: In the past two years, Taiwan has rapidly been catching up to the global AI wave and is quickly becoming the region’s de facto AI talent hub.
-image: images/20191009news.jpg
+image: /images/20191009news.jpg
 permalink: /news/what-is-the-state-of-taiwans-ai-ecosystem/
 layout: page
 ---
