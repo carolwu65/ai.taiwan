@@ -31,31 +31,8 @@ New opportunities abound as digital marketing and e-commerce mature
 According to AppWorks’ newly released 2019 Taiwan AI Ecosystem Map, Taiwan has been shaping up well with 28 startups & 12 habitat providers.
 
 Taiwan’s earliest investment in the AI field can be traced back to Tagtoo, which was established in 2010 and specializes in marketing tech. In addition to capturing the Taiwan market, Tagtoo has also actively expanded into a Greater Southeast Asian regionalcompany.
-In 2018, it won the Best Brand Award in Indonesia by CMO Asia. TAI technology startups converge with Taiwan to create synergy
-Notably, we have also witnessed the increasing integration of hardware and software, specifically as it relates to marrying Taiwan’s traditional manufacturing prowess with its growing AI capabilities.
 
-Established in 2014, Umbo CV (Umbo Computer Vision), a model of this innovation and has successfully entered the European and American markets with loyal enterprise clients in over 30 countries.
-
-Umbo CV specializes in intelligent security monitoring and develops image recognition technology with self-learning and analytic capabilities.
-
-The software platform can be used to learn and identify objects, cars, animals, and plants, as well as monitor for intruders and special events like fires.
-
-By combining AI technology with their own proprietary cameras, Umbo CV helps automate what has traditionally been a very labor-intensive industry riddled with false alarms, saving invaluable time and resources for surveillance and monitoring companies.
-
-Other startups that utilize the integration of software and hardware, development of AI applications, big data from cameras, and WiFi measurement include SkyREC, Cubo, Lucid and NUWA Robotics.
-
-With more and more AI innovations, Taiwan is also booming in terms of startup accelerators, education, and research.
-
-The Taiwan AI Academy and Taiwan AI Labs are Taiwan’s representative 
-institutions in the field of AI for education and research respectively.
-
-Looking into the future for AI innovation, we believe that there are three opportunities related to startups.
-
-The first is the automation of routine and repetitive work in labor-intensive industries such as law, accounting, and healthcare.
-
-The second is the use of AI to facilitate tasks that would otherwise be impossible or highly inefficient for humans to do such as processing large amounts of data for personalized recommendations en masse.
-
-The third is the development of enabling tools to help users capitalize on the growing ubiquity of AI without any prior technical foundation.agtoo currently aggregates all their data and has a full-time AI team dedicated to train models to more effectively optimize marketing campaign decisions for their clients.
+In 2018, it won the Best Brand Award in Indonesia by CMO Asia. Tagtoo currently aggregates all their data and has a full-time AI team dedicated to train models to more effectively optimize marketing campaign decisions for their clients.
 
 Behind the rapid rise of Tagtoo, Taiwan’s digital marketing and e-commerce development has moved into the AI era, and has spawned a number of new innovations in the field of digital marketing and advertising.
 
