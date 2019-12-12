@@ -1,7 +1,7 @@
 ---
 title: Taiwan launches AI Hub to upgrade industries
 summary: The Taiwanese government launched its AI Hub on Wednesday (Oct. 2) to help industry players secure a strong foothold in the market of advanced technologies.
-image: https://ws.ey.gov.tw/Download.ashx?u=LzAwMS9FeVVwbG9hZC8xMy9ja2ZpbGUvOTk0NjY5Y2ItOThiMi00MTFhLTg4MzgtODFlNDk5NTYwNTFlLmpwZw%3d%3d&n=MjAxOTEwMDIuanBn
+image: https://tnimage.s3.hicloud.net.tw/photos/2019/10/02/1569997983-5d94449f69539.jpg
 permalink: /news/taiwan-launches-ai-hub-to-upgrade-industries/
 layout: page
 ---
