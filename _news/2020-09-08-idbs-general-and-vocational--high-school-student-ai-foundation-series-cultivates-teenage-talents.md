@@ -14,6 +14,6 @@ This learning series included many hands-on exercises such as unmanned vehicles,
 The development of Taiwan's AI industry had become prosperous through assistance from all sectors, government, industry, academia, and research. This series allowed general and vocational high school students to broaden their international horizons in technologies and establish basic AI knowledge through activities. With the cultivation mechanism and collective efforts from enterprises, this activity series had successfully laid the foundation for Taiwan's future AI talents.
 
 <br/>
-Date: 2020-08-13
+Date: 2020-09-08
 <br/>
-Source: Taiwan News
+Source: Industrial Development Bureau, Ministry of Economic Affairs
