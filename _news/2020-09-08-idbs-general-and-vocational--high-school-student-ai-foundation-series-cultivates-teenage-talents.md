@@ -1,7 +1,7 @@
 ---
 title: IDB's General and Vocational High School Student AI Foundation Series Cultivates Teenage Talents
 summary: To fundamentally nurture AI talents to meet enterprises' needs , the AI New Generation Talent Training (AIGO) Program at Industrial Development Bureau (IDB) promoted the General and Vocational High School Student AI Foundation Series to coalesce the government, industry, academic, and research resources.
-image: https://www.moeaidb.gov.tw/ctlr?PRO=filepath.DownloadFile&f=news&t=i&id=33999
+image: /images/20200908news.png
 permalink: /news/idbs-general-and-vocational--high-school-student-ai-foundation-series-cultivates-teenage-talents/
 layout: page
 ---
